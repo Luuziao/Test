@@ -14,6 +14,6 @@ int main(){
     long long num = (long long)&val;
     cout << num<<endl;
     cout << &val<<endl;
-    
+
     return 0;
 }

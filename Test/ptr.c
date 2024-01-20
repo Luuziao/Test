@@ -8,4 +8,5 @@ int main(){
     printf("%p\n",&val); 
     printf("%p\n",ptr); 
     printf("after %d",val);
+    return 0;
 }
